@@ -1,6 +1,6 @@
 # KNN Algorithm
 
-<img src="https://media.licdn.com/dms/image/C5112AQFY4bX3Y7jcHA/article-cover_image-shrink_423_752/0/1565431496518?e=1693440000&v=beta&t=XTs5fa0JRRCUBbuQoC3Js0pyAu8yM0lrLzAQXdg543U](https://miro.medium.com/v2/resize:fit:720/format:webp/0*GPaI5OjY4Y8DW4he">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*GPaI5OjY4Y8DW4he">
 
 - Using a database named iris.data.csv with the infos: sepal_length , sepal_width , petal_length , petal_width and specie name.
 - When placing a new flower with unknown species in iris.data_2.csv, using the KNN Algorithm, the program calculates the "k" flower species closest to the unkown flower and deduces a specie for it.
